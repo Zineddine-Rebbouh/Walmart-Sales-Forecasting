@@ -32,7 +32,7 @@ The dataset is sourced from Kaggle's [Walmart Recruiting - Store Sales Forecasti
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/walmart-sales-forecast.git
+   git clone https://github.com/Zineddine-Rebbouh/Walmart-Sales-Forecasting.git
    cd walmart-sales-forecast
    ```
 
