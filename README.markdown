@@ -88,13 +88,9 @@ predictions = best_model.predict(X_test)
 
 See the notebook's "Model Evaluation" and "Conclusions" sections for detailed tables and plots.
 
-## Conclusions & Recommendations
+## Conclusions 
 - **Strengths**: Handles seasonality and external factors well; ensemble models outperform linear ones.
-- **Limitations**: Assumes stationary data; may need retraining for new economic shifts.
-- **Recommendations**:
-  - Deploy LightGBM for real-time forecasting.
-  - Incorporate more features (e.g., weather data) for better accuracy.
-  - Monitor for concept drift in production.
+
 
 ## Contributing
 Pull requests welcome! For major changes, open an issue first.
